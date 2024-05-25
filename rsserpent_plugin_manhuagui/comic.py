@@ -1,7 +1,7 @@
 from typing import Any, Dict
 
 from pyquery import PyQuery
-from rsserpent.utils import HTTPClient, cached
+from rsserpent_rev.utils import HTTPClient, cached
 
 
 path = "/manhuagui/comic/{cid}"
